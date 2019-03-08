@@ -1,0 +1,13 @@
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\command\BookFlightCommand.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\read\FlightReadModel.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\domain\FlightData.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\command\ChangeDepartureAirportCommand.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\command\ChangeDepartureTimeCommand.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\CqrsDemo.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\event\DepartureTimeChangedEvent.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\command\ChangeArrivalAirportCommand.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\event\ArrivalAirportChangedEvent.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\domain\Flight.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\event\DepartureAirportChangedEvent.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\event\IteneraryChangedEvent.java
+D:\SpringWorkspace\cqrs-demo\src\main\java\com\danoff\cqrs\demo\event\FlightBookedEvent.java
